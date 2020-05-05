@@ -1,5 +1,10 @@
 body {
-    background-image: url('images/map.jpg');
+    background-image: url('images/map2.jpg');
+    height: 280px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    position: relative;
     color: white;
     font-family: courier, serif;
 }
@@ -14,3 +19,5 @@ body {
   color: white;
 }
          
+
+html, body {margin: 0; height: 100%; overflow: hidden}

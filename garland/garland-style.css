@@ -2,6 +2,8 @@
 
 body { 
   margin: 0;
+    background-color: white;
+
   font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif; font-size: 18px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; 
 }
 

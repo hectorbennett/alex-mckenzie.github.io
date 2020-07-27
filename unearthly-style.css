@@ -4,12 +4,16 @@ body {
     font-family: courier, serif;
 }
                  
-                 h1 {
+h1 {
   background-color: black;
   color: white;
 }
                  
-                            p {
+p {
   background-color: black;
   color: white;
+}
+
+.png {
+  cursor: url("curse.png"), auto;
 }

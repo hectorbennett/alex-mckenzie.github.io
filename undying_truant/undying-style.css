@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: courier, serif;
+}
+                 
+h1 {
+/*    background-color: black;*/
+    color: white;
+}
+                 
+p {
+/*    background-color: black;*/
+    color: white;
+}
+
+div {
+    text-align: justify;
+    text-justify: inter-word;
+    padding: 25px;
+}
+
+    
+.png {
+  cursor: url("curse.png"), auto;
+}
